@@ -1,0 +1,4 @@
+Description: create the model that determines (predicts) the body fat based on existing circumstances (features).
+
+Location of dataset:
+https://www.kaggle.com/fedesoriano/body-fat-prediction-dataset
