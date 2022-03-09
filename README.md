@@ -22,3 +22,6 @@ Stakeholder to provide key insight:
 
 Key data sources:
 	The data will be provided by the well-known website "www.kaggle.com". The direct link to the dataset is "https://www.kaggle.com/fedesoriano/body-fat-prediction-dataset".
+
+Updated v1: added the option to deploy the model locally.
+	CMD command to run: streamlit run main.py
