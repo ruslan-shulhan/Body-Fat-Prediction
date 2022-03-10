@@ -1,7 +1,7 @@
 from body_fat_prediction_model import BodyFatPrediction
 from streamlit_web_app import StreamLit
 
-# CMD comand to run app locally: streamlit run main.py
+# CMD command to run app locally: streamlit run main.py
 if __name__ == '__main__':
     app_title = 'Body Fat Prediction - Web App'
     app_description = 'This web app can estimate your body fat based on some measurements. \n\n'
